@@ -10,6 +10,10 @@ main {
     padding: 0px 0px;
     margin: 10px 150px;
 }
+.grid-container {
+    display: grid;
+    grid-row-gap: 30px 30px;
+}
 img {
     display: block;
     margin-left: auto;
